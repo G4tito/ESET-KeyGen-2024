@@ -1,3 +1,5 @@
+![Preview Image](photo_2024-11-01_16-39-00.jpg)
+
 ESET-KeyGen-2024 Tip
 
 ESET-KeyGen - Trial-Key & Account generator for ESET Antivirus Getting Started: Installation
